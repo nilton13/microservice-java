@@ -1,0 +1,5 @@
+package com.nfdeveloper.hrworker.entities;
+
+public class Worker {
+
+}

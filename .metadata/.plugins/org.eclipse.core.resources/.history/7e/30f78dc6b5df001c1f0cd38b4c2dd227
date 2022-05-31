@@ -1,0 +1,5 @@
+package com.nfdeveloper.hrworker.repositories;
+
+public interface WorkerRepository {
+
+}
